@@ -1,2 +1,3 @@
 # hulat_edos
-Repository of Hulat's participation in SemEval-2023 task 10, EDOS
+This repository contains the code for our participation at SemEval 2023 - Task 10 - Explainable Detection of Online Sexism (EDOS)
+ (https://codalab.lisn.upsaclay.fr/competitions/7124)
