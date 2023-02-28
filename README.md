@@ -7,8 +7,9 @@ This repository contains the code for our participation at SemEval 2023 - Task 1
 * 2_system.ipynb: this notebook allows you to reproduce all our experiments by using the training and test dataset provided by the organizers of the task. To obtain the file edos_labelled.csv, you must contact with the organizers.
 * 3_DA4edos.ipynb: this notebook includes the data augmentation techniques that we used to increase the training dataset for this task.
 
+A detailed description of our approach is described in: https://arxiv.org/abs/2302.12840
 
-A detailed description of our system is described in:
+Please properly cite our work if you find them useful.
 
     @InProceedings{segura2023hulatintimacy,
 
